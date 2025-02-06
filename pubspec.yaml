@@ -17,6 +17,7 @@ dependencies:
 
 
   cupertino_icons: ^1.0.8
+  audioplayers: ^6.1.1
 
 dev_dependencies:
   flutter_test:
@@ -30,7 +31,7 @@ flutter:
   assets:
     - assets/logo.png
     - assets/bg.png
-    - assets/music.mp3
+    - assets/background.mp3
     - assets/banner.png
 
   uses-material-design: true
