@@ -31,6 +31,7 @@ flutter:
     - assets/logo.png
     - assets/bg.png
     - assets/music.mp3
+    - assets/banner.png
 
   uses-material-design: true
 
